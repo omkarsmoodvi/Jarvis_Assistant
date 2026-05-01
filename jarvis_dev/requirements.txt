@@ -1,0 +1,36 @@
+# ============================================================
+#  Jarvis — Full Requirements
+#  Install: pip install -r requirements.txt
+# ============================================================
+
+# ── LiveKit / voice pipeline (existing) ─────────────────────
+livekit-agents
+livekit-plugins-openai
+livekit-plugins-silero
+livekit-plugins-google
+livekit-plugins-noise-cancellation
+livekit
+
+# ── LangChain + search (existing) ───────────────────────────
+langchain-community
+requests
+python-dotenv
+duckduckgo-search
+fuzzywuzzy
+python-Levenshtein
+
+# ── System control (existing) ───────────────────────────────
+pyautogui
+pynput
+pywin32
+
+# ── Jarvis LLM core ─────────────────────────────────────────
+gpt4all>=2.8.2
+
+# ── Aria Neural voice ───────────────────────────────────────
+edge-tts>=6.1.9
+pygame>=2.5.0
+
+# ── HUD + GUI ───────────────────────────────────────────────
+PySide6>=6.6.0
+psutil>=5.9.0

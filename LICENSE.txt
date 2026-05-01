@@ -1,0 +1,15 @@
+PROPRIETARY LICENSE: JARVIS ASSISTANT
+
+Copyright (c) 2026 Omkar. All Rights Reserved.
+
+1. OWNERSHIP
+The software, 2D avatar assets, and all related code in this repository are the exclusive property of the owner (Omkar).
+
+2. RESTRICTIONS
+No individual or entity is permitted to copy, modify, distribute, or use this software for any purpose, commercial or private, without explicit written consent from the owner.
+
+3. COMMERCIAL USE & LICENSING
+If you wish to use Jarvis Assistant for commercial purposes, redistribution, or integration into other hardware/software systems, a paid license is required. Please contact the owner directly to discuss payment terms and obtain a legal permit to use the code.
+
+4. NO WARRANTY
+This software is provided "as is" without any warranty of any kind.
